@@ -1,0 +1,23 @@
+Ref: https://www.sohamkamani.com/nodejs/jwt-authentication/
+JWT generate: https://github.com/auth0/node-jsonwebtoken → npm i jsonwebtoken  
+
+In order to create a JSON web token, we will need — three things:
+
+1. Payload
+2. Secret (Private key)
+3. Signing options
+
+Step 1:  Created Secret (Private key) -> Có thể tạo primary key bất kỳ lưu ở server → Càng phức tạp càng tốt
+
+ → https://travistidwell.com/jsencrypt/demo/ → generate public key and private key → save it into two files
+ 
+ 
+ 
+ https://siddharthac6.medium.com/json-web-token-jwt-the-right-way-of-implementing-with-node-js-65b8915d550e
+
+https://www.sohamkamani.com/nodejs/jwt-authentication/
+
+https://jasonwatmore.com/post/2020/06/17/nodejs-mongodb-api-jwt-authentication-with-refresh-tokens
+
+
+https://www.bezkoder.com/angular-12-refresh-token/
